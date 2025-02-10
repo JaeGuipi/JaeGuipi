@@ -1,10 +1,8 @@
-## Hi there 👋
-
-<!--내용 부분-->
 <h2 align="center">✨ Tech Stack ✨</h3>
 
-<h3>Core</h2>
-<div align="center">
+## <h3>Core</h3>
+
+<div>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -14,7 +12,7 @@
 
 </div>
 
-<h3 align='center'>Styling<h2>
+<h3 align='center'>Styling</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>&nbsp
@@ -22,7 +20,7 @@
 
 </div>
 
-<h3 align='center'>State Management & Forms/<h2>
+<h3 align='center'>State Management & Forms</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
   <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
