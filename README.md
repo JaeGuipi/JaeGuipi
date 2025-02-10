@@ -1,6 +1,6 @@
-<h2 align="center">✨ Tech Stack ✨</h3>
+<h2 align="center">✨ Tech Stack ✨</h2>
 
-## <h3>Core</h3>
+<h3>Core</h3>
 
 <div>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
