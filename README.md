@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%9D%B4%EC%9E%AC%EC%84%9C%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 <h2>✨ Tech Stack ✨</h2>
 
@@ -43,7 +43,6 @@
 
 </br>
 </br>
----
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeGuipi&layout=compact)
 
