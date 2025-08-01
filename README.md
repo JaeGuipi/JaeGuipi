@@ -21,7 +21,7 @@
 <h3>Styling</h3>
 <div>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>&nbsp
+  <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Emotion-hotpink?style=flat-square">
 </div>
 
